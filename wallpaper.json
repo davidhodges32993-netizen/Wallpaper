@@ -1,26 +1,16 @@
 {
-  "videos": [
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/1.-Calmbience.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/72JBpihwWU-wallpaper.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/90s-retro-gamer-room-moewalls-com.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/10242.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/1658746219-1658746219-pixel-lofi-cyberpunk-chill-live-wallpaper.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/1668456831-1668456831-highway-in-the-clouds-live-wallpaper.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/ailivewallpapers.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/childhood-gaming-street-fighter-iv-arcade-moewalls-com.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/cyberpunk-delorean-neon-space-drive-wwallpaperwaves-com.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/FpLlm58JY2xnANt_Pokemon-Room_6_170756.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/hydrangeas-rain.3840x2160.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/lAN8AvJh3Wo9eIA_Ht.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/Lofi-Space-Room-Animated-Wallpaper-Cosmic-Ambiance-Wallpaper-Engine-Space.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/mylivewallpapers.com-Cyber-City-4K.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/Night-City-Cyberpunk-2077.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/oHkNhC5sWnwK0Oj_wallpaper_5_prob4_1_1120948.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/Retro-Arcade-Room.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/retro-snes-street-fighter-ii-wallpaperwaifu-com.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/shou-relaxing-flower-field-the-secret-world-of-arrietty-moewalls-com.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/The-Midnight-Monsters-Animated-Wallpaper-Retro-Vibes-Wallpaper-Engine-Space.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/totoro-on-top-of-a-tree.3840x2160.mp4",
-    "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/totoro-sleeping.1920x1080.mp4"
+  "wallpapers": [
+    {
+      "type": "video",
+      "url": "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/90s-retro-gamer-room-moewalls-com.mp4"
+    },
+    {
+      "type": "video",
+      "url": "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/1.-Calmbience.mp4"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/davidhodges32993-netizen/Wallpaper/main/wp12857057-ghibli-desktop-4k-wallpapers.jpg"
+    }
   ]
 }
