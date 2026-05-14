@@ -1,50 +1,8 @@
 [
   {
-    "location": "My Wallpapers",
-    "title": "New Video 1",
+    "location": "Test",
+    "title": "Test Video",
     "author": "David",
     "url_1080p": "https://files.catbox.moe/2n6zrw.mp4"
-  },
-  {
-    "location": "My Wallpapers",
-    "title": "New Video 2",
-    "author": "David",
-    "url_1080p": "https://files.catbox.moe/m69ayy.mp4"
-  },
-  {
-    "location": "My Wallpapers",
-    "title": "New Video 3",
-    "author": "David",
-    "url_1080p": "https://files.catbox.moe/584jce.mp4"
-  },
-  {
-    "location": "My Wallpapers",
-    "title": "New Video 4",
-    "author": "David",
-    "url_1080p": "https://files.catbox.moe/aq1fkz.mp4"
-  },
-  {
-    "location": "My Wallpapers",
-    "title": "New Video 5",
-    "author": "David",
-    "url_1080p": "https://files.catbox.moe/944mjc.mp4"
-  },
-  {
-    "location": "My Wallpapers",
-    "title": "New Video 6",
-    "author": "David",
-    "url_1080p": "https://files.catbox.moe/f2ulom.mp4"
-  },
-  {
-    "location": "My Wallpapers",
-    "title": "New Video 7",
-    "author": "David",
-    "url_1080p": "https://files.catbox.moe/1owooy.mp4"
-  },
-  {
-    "location": "My Wallpapers",
-    "title": "New Video 8",
-    "author": "David",
-    "url_1080p": "https://files.catbox.moe/gdnv8w.mp4"
   }
 ]
