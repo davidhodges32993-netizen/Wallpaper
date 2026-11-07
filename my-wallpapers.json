@@ -36,11 +36,12 @@
     "url_1080p": "https://files.catbox.moe/f2ulom.mp4"
   },
   {
-    "location": "My Wallpapers",
-    "title": "New Video 7",
-    "author": "David",
-    "url_1080p": "https://files.catbox.moe/yd4bm3.mp4"
-  },
+  "location": "My Wallpapers",
+  "title": "New Video 7",
+  "author": "David",
+  "url_1080p": "https://files.catbox.moe/yd4bm3.mp4",
+  "url_4k": "https://files.catbox.moe/yd4bm3.mp4"
+},
   {
     "location": "My Wallpapers",
     "title": "New Video 8",
